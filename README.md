@@ -26,3 +26,14 @@ Getting Started
 ---------------
 
 1. Download and run the app.
+
+
+Resources and Concepts 
+---------------
+
+
+
+Activity Lifecycle
+---------------
+
+![image](https://user-images.githubusercontent.com/110332003/184630253-a799ffc3-b10c-4903-8dc6-c7b54f1dde75.png)
